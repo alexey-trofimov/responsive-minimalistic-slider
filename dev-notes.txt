@@ -1,0 +1,35 @@
+--- Minimalistic slider ---
+
+--
+Some notes:
+--
+
+--
+Google fonts:
+--
+
+1. Lora: 400, 500, 600, 400 italic, 500 italic, 600 italic.
+font-family: 'Lora', serif;
+
+--
+Colors:
+--
+
+- Light Mode:
+Body bg: #ffffff
+Hover/Active: #5050ff
+Content: #242428
+Metadata: #80808e
+
+- Dark Mode:
+Body bg: #2e2e32
+Hover/Active: #7171ff
+Content: #ffffff
+Metadata: #a8a8b6
+
+--
+Image size:
+--
+
+Original: 750x480px
+2x: 1500x960px (recommended)
