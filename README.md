@@ -1,6 +1,6 @@
 ## Responsive Minimalistic Slider
 
-A simple and modern slider with a minimalistic design. Powered by [Flickity](https://flickity.metafizzy.co/). **Demonstration**: [Responsive-Minimalistic-Slider](https://demo.minimalweb.site/responsive-minimalistic-slider/). Demonstration in **Cyrillic** (Russian language): [Cyrillic-Demo](https://demo.minimalweb.site/responsive-minimalistic-slider/russian-language.html).
+A simple and modern slider with a minimalistic design. Powered by [Flickity](https://flickity.metafizzy.co/). **Demonstration**: [Responsive-Minimalistic-Slider](https://demo.minimalweb.net/responsive-minimalistic-slider/). Demonstration in **Cyrillic** (Russian language): [Cyrillic-Demo](https://demo.minimalweb.net/responsive-minimalistic-slider/russian-language.html).
 
 **Important note:** For commercial use of the Flickity slider, please read the **Commercial License** terms for this slider here: [https://flickity.metafizzy.co/license.html](https://flickity.metafizzy.co/license.html)
 
