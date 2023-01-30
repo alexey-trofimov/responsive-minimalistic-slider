@@ -1,6 +1,6 @@
 /*
 Main stylesheet
-style.css v1.0
+style.css v1.0.1
 
 Project name: Responsive minimalistic slider
 Project URL: https://demo.minimalweb.net/responsive-minimalistic-slider/
@@ -172,6 +172,22 @@ body {
 2 - Styles for the Main slider
 --------------------------------------------------------
 */
+
+/* box-sizing for the slider */
+.mw-border-box,
+.mw-border-box * {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.mw-border-box::before,
+.mw-border-box::after,
+.mw-border-box *::before,
+.mw-border-box *::after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
 
 /* slider container */
 .mw-main-slider-container {
